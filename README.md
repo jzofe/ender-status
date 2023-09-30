@@ -6,6 +6,7 @@ Endertopluluk.com Real-Time Status
 
 ``` 
 git clone https://github.com/scriptkidsensei/ender-status/
+pip3 install termcolor
 ```
 
 run
