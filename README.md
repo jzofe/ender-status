@@ -12,5 +12,11 @@ run
 
 ``` 
 python3 EnderStatus.py
-``` 
+
+or
+
+python3 EnderStatus_ENG.py
+```
+
+
 
