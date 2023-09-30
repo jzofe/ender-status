@@ -8,7 +8,7 @@ from termcolor import colored
 #Discord : https://discord.gg/y8pCwzaR
 #Web : endertopluluk.com
 
-#Api Expire : 3.10.2023 | For the new API: scriptkidsensei
+#Api Expire : 3.10.2023 | For the new API: scriptkidsensei or Ender Discord
 
 url = "https://api.uptimerobot.com/v2/getMonitors"
 
